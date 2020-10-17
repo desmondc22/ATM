@@ -2,11 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class Atm {
-  // private static final int BALANCE_INQUIRY = 1;
-  // private static final int WITHDRAWAL = 2;
-  // private static final int DEPOSIT = 3;
-  // private static final int EXIT = 4;
-
+  
   public static void main(String args[] ){ 
 
     Scanner s = new Scanner(System.in);  
